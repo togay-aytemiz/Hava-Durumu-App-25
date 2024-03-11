@@ -87,7 +87,7 @@ export default function App() {
     <div
       className="app-container"
       style={{
-        backgroundImage: `url('../public/images/${condition}-background.jpg')`,
+        backgroundImage: `url('../images/${condition}-background.jpg')`,
       }}
     >
       <div className="weather-container">
